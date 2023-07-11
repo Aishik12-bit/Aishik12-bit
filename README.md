@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishik12-bit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-###About me
+### About me
 
 🎓 I hold a Degree in Computer Science and have a strong foundation in algorithms, data structures, and software development. My journey into the world of technology began with a curiosity to understand how computers work and has evolved into a deep interest in the fields of artificial intelligence and machine learning.
 
